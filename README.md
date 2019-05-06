@@ -7,20 +7,19 @@ description: >-
 
 # Documentation Overview
 
-## Getting your Alliance ID through a Local Account.
+## What we want to leverage with our applications.
 
-Getting an **Alliance ID** is \(and will always be\) free. It takes less than a minute and it can be issued through your favorite identity provider. This allow users to login without passwords and boring email verifications.
+We want to give you the power to harness your entire potential through technology, without having to worry about any of the complexity and technical aspects. We simply want to help you make your life easier while increasing your odds for success through the right tools and support on the path for digitalization.
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ For us, is all about productivity and how to help you push forward your vision through technology. To reach beyond expectations together. 
 {% endhint %}
 
-Once you're strong enough, save the world:
+## Where we are on the stage?
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+We are creating our applications in such a form that they deliver as much value to your business and cause as we can. They work primarily as an interface for users to provision and purchase **services**, **products** and **cloud resources**. 
+
+
 
 
 
