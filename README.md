@@ -21,5 +21,11 @@ We are creating our applications in such a form that they deliver as much value 
 
 ## How to get started?
 
-To get started, you will need to create an Alliance ID account. Now, you may think... 🙄 another account? But don't worry. Creating your Alliance ID Account is \(and will always be\) free, takes just a few seconds and you don't even need a password. This account will give you instant access to everything else at Fenix Alliance Group.
+To get started, you will need to create an Alliance ID account. Now, you may think... 🙄 another account? But don't worry. Creating your Alliance ID Account is \(and will always be\) free, takes just a few seconds and you don't even need a password \(unless you want to have one\). This account will give you instant access to everything else at Fenix Alliance Group.
+
+## A note about your account and privacy of your information.
+
+The Alliance ID Accounts engine is built on top of a highly compliant service to jeep your identity private. This engine supports Facebook, Microsoft Accounts, Google+, LinkedIn, and many other identity providers, or you can  talk to our technical team to integrate your own. 
+
+We think that it's also worth pointing out that we DO NOT store any identity information into our databases, instead that data is sended to the same systems that governments and enterprises worldwide are using to keep your data safe, so that you can rest assured that your sensitive information is protected through various security controls in addition to multi-factor authentication.
 
