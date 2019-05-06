@@ -5,9 +5,8 @@
 ## Alliance ID Accounts
 
 * [Create your Alliance ID](alliance-id-accounts/creating-your-alliance-id.md)
-* [Manage your Alliance ID](alliance-id-accounts/manage-your-alliance-id.md)
 * [Multi-Factor Authentication](alliance-id-accounts/multi-factor-authentication.md)
-* [Privacy and Data Takedown Requests](alliance-id-accounts/privacy-and-data-takedown-requests.md)
+* [Manage your Alliance ID](alliance-id-accounts/manage-your-alliance-id.md)
 
 ## Infinity Comex Store
 
