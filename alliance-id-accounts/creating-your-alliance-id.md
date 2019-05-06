@@ -20,3 +20,5 @@ description: >-
 
 We want to give you options. If you don't want to use or you don't have any social media account, you can go old style and create your Alliance ID Account through your Email address. This will mean for you that you will need to verify that email address through a code. This will also enable password for your account, so you will need to provide a strong password to continue with your sign up process.
 
+![When creating a local account, you will be asked to verify your email address through a code.](../.gitbook/assets/image%20%282%29.png)
+
