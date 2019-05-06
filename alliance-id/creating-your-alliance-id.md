@@ -4,7 +4,7 @@ description: >-
   in the right place.
 ---
 
-# Creating your Alliance ID
+# Create your Alliance ID
 
 ## Creating your Alliance ID through an identity provider \(e.g. Facebook, LinkedIn, Google...\)
 
