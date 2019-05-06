@@ -25,7 +25,7 @@ To get started, you will need to create an Alliance ID account. Now, you may thi
 
 ## A note about your account and privacy of your information.
 
-The Alliance ID Accounts engine is built on top of a highly compliant service to jeep your identity private. This engine supports Facebook, Microsoft Accounts, Google+, LinkedIn, and many other identity providers, or you can  talk to our technical team to integrate your own. 
+The Alliance ID Accounts engine is built on top of a highly compliant service to keep your identity private. This engine supports Facebook, Microsoft Accounts, Google+, LinkedIn, and many other identity providers, or you can  talk to our technical team to integrate your own. 
 
-We think that it's also worth pointing out that we DO NOT store any identity information into our databases, instead that data is sended to the same systems that governments and enterprises worldwide are using to keep your data safe, so that you can rest assured that your sensitive information is protected through various security controls in addition to multi-factor authentication.
+We think that it's also worth pointing out that we DO NOT store any identity information into our databases; instead, that data is always encrypted and sended to the same systems that governments and enterprises worldwide are using to keep your data safe, so that you can rest assured that your sensitive information is protected through various security controls in addition to multi-factor authentication.
 
