@@ -2,14 +2,14 @@
 
 * [Documentation Overview](README.md)
 
-## Alliance ID
+## Alliance ID Accounts
 
-* [Create your Alliance ID](alliance-id/creating-your-alliance-id.md)
-* [Manage your Alliance ID](alliance-id/manage-your-alliance-id.md)
-* [Multi-Factor Authentication](alliance-id/multi-factor-authentication.md)
-* [Privacy and Data Takedown Requests](alliance-id/privacy-and-data-takedown-requests.md)
+* [Create your Alliance ID](alliance-id-accounts/creating-your-alliance-id.md)
+* [Manage your Alliance ID](alliance-id-accounts/manage-your-alliance-id.md)
+* [Multi-Factor Authentication](alliance-id-accounts/multi-factor-authentication.md)
+* [Privacy and Data Takedown Requests](alliance-id-accounts/privacy-and-data-takedown-requests.md)
 
-## Infinity Comex
+## Infinity Comex Store
 
 * [Orders](infinity-comex/orders.md)
 * [Shippings](infinity-comex/shippings.md)
