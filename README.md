@@ -7,7 +7,7 @@ description: >-
 
 # Documentation Overview
 
-## What we want to leverage with our applications.
+## .What we want to leverage with our applications.
 
 We want to give you the power to harness your entire potential through technology, without having to worry about any of the complexity and technical aspects. We simply want to help you make your life easier while increasing your odds for success through the right tools and support on the path for digitalization.
 
@@ -21,5 +21,5 @@ We are creating our applications in such a form that they deliver as much value 
 
 ## How to get started?
 
-To get started, you will need to create an Alliance ID account. Now, you may think... 🙄 another account? But don't worry. Creating your Alliance ID Account is \(and will always be\) free, takes just a few seconds and you don't even need a password . This account will give you instant access to everything else at Fenix Alliance Group.
+To get started, you will need to create an Alliance ID account. Now, you may think... 🙄 another account? But don't worry. Creating your Alliance ID Account is \(and will always be\) free, takes just a few seconds and you don't even need a password. This account will give you instant access to everything else at Fenix Alliance Group.
 
