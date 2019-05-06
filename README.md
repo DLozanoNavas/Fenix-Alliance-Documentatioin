@@ -17,9 +17,9 @@ We want to give you the power to harness your entire potential through technolog
 
 ## Where we are on the stage?
 
-We are creating our applications in such a form that they deliver as much value to your business and cause as we can. They work primarily as an interface for users to provision and purchase **services**, **products** and **cloud resources**. 
+We are creating our applications in such a form that they deliver as much value to your business and cause as we can. They work primarily as an interface for users to manage their **services**, **products** and **cloud resources**. But the truth is that aren't limited to just that. Our applications are being developed to give you access to every functionality that we may implement for ourselves, to power your business and vision. 
 
+## How to get started?
 
-
-
+To get started, you will need to create an Alliance ID account. Now, you may think... 🙄 another account? But don't worry. Creating your Alliance ID Account is \(and will always be\) free, takes just a few seconds and you don't even need a password . This account will give you instant access to everything else at Fenix Alliance Group.
 
