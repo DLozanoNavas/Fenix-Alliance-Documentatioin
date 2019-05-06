@@ -1,2 +1,2 @@
-# Fenix-Alliance-Documentatioin
+# Fenix-Alliance-Documentation
 
