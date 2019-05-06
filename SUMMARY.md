@@ -5,5 +5,17 @@
 ## Alliance ID
 
 * [Creating your Alliance ID](alliance-id/creating-your-alliance-id.md)
-* [Enabling Multi-Factor Authentication](alliance-id/enabling-multi-factor-authentication.md)
+* [Multi-Factor Authentication](alliance-id/multi-factor-authentication.md)
+
+## Infinity Comex
+
+* [Orders](infinity-comex/orders.md)
+
+## ComputeWorks Suites
+
+* [Untitled](computeworks-suite/untitled.md)
+
+## Support
+
+* [Untitled](support/untitled.md)
 
