@@ -128,3 +128,7 @@
 * [List of available APIs](apis/list-of-available-apis.md)
 * [Request API Access](apis/untitled.md)
 
+## Security
+
+* [Security Features](security/security-features.md)
+
