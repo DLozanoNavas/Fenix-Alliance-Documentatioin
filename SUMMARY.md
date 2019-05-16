@@ -105,8 +105,8 @@
 ## Support
 
 * [Support Tools](support/support-model/README.md)
-  * [Support Tickets](support/support-model/untitled/README.md)
-    * [Andy \| Support Bot](support/support-model/untitled/andy-or-support-bot.md)
+  * [Andy \| Support Bot](support/support-model/andy-or-support-bot.md)
+  * [Support Tickets](support/support-model/untitled.md)
 * [Security Features](support/security-features.md)
 
 ## Sales
