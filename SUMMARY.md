@@ -128,8 +128,9 @@
 
 * [Our Sales Process](sales/our-sales-process/README.md)
   * [Envisioning Sessions](sales/our-sales-process/envisioning-sessions.md)
-  * [Customer Immersion Experience](sales/our-sales-process/customer-immersion-experience.md)
   * [Value Discovery Workshop](sales/our-sales-process/value-discovery-workshop.md)
+  * [Customer Immersion Experience](sales/our-sales-process/customer-immersion-experience.md)
+* [Value Calculator](sales/value-calculator.md)
 
 ## APIs
 
