@@ -52,7 +52,6 @@
 
 * [Services](services-marketplace/untitled/README.md)
   * [Stack selection](services-marketplace/untitled/stack-selection.md)
-  * [Service-level agreements \(SLAs\)](services-marketplace/untitled/service-level-agreements-slas.md)
 * [Project Services Management](services-marketplace/project-services-management.md)
 
 ## Cloud Marketplace
@@ -97,15 +96,7 @@
 
 ## Learn Alliance
 
-* [Professional and learner profile](education/professional-and-learner-profile.md)
-
-## Social
-
-* [Blogs](social/untitled.md)
-* [Follows](social/follows.md)
-* [Forums](social/forums.md)
-* [Groups](social/groups.md)
-* [Reviews](social/reviews.md)
+* [Learner profile](education/learner-profile.md)
 
 ## Billing
 
@@ -119,21 +110,22 @@
 
 ## Support
 
-* [Support Tiers](support/support-model.md)
-* [Support Tickets](support/untitled.md)
-* [Changelog](support/changelog.md)
+* [Support Tools](support/support-model/README.md)
+  * [Support Tickets](support/support-model/untitled.md)
 * [Security Features](support/security-features.md)
 
 ## Sales
 
-* [Our Sales Process](sales/our-sales-process/README.md)
-  * [FastTrack Assistance](sales/our-sales-process/envisioning-sessions.md)
-  * [Value Discovery Workshop](sales/our-sales-process/value-discovery-workshop.md)
-  * [Customer Immersion Experience](sales/our-sales-process/customer-immersion-experience.md)
-  * [Value Calculator](sales/our-sales-process/value-calculator.md)
+* [Sales Tools](sales/sales-tools/README.md)
+  * [FastTrack Assistance](sales/sales-tools/envisioning-sessions.md)
+  * [Value Discovery Workshop](sales/sales-tools/value-discovery-workshop.md)
+  * [Customer Immersion Experience](sales/sales-tools/customer-immersion-experience.md)
+  * [Value Calculator](sales/sales-tools/value-calculator.md)
+* [Service-level agreements \(SLAs\)](sales/service-level-agreements-slas.md)
 
-## APIs
+## Developers
 
-* [List of available APIs](apis/list-of-available-apis.md)
-* [Request API Access](apis/untitled.md)
+* [Request API Access](https://developer.fenix-alliance.com/signin)
+* [Developer Products](https://developer.fenix-alliance.com/products)
+* [Changelog](developers/changelog.md)
 
