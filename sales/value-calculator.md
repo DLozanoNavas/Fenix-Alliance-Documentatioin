@@ -28,19 +28,13 @@ description: >-
 
 {% file src="../.gitbook/assets/tei-of-office-365-e3.pdf" %}
 
-{% file src="../.gitbook/assets/tei-of-microsoft-office-365-smb.pdf" %}
-
-{% file src="../.gitbook/assets/tei-of-microsoft-office-365-very-large-enterprise.pdf" %}
-
-{% file src="../.gitbook/assets/tei-of-office-365-e3.pdf" %}
-
 {% file src="../.gitbook/assets/tei-of-office-365-e5.pdf" %}
+
+{% file src="../.gitbook/assets/tei-of-microsoft-365-enterprise-e5.pdf" %}
 
 {% file src="../.gitbook/assets/tei-of-office-365-power-bi-report.pdf" %}
 
 {% file src="../.gitbook/assets/tei-of-windows-10.pdf" %}
-
-{% file src="../.gitbook/assets/tei-of-microsoft-365-enterprise-e5.pdf" %}
 
 {% file src="../.gitbook/assets/tei-of-microsoft-365-for-firstline-workers.PDF" %}
 
