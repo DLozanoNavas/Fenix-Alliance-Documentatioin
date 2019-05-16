@@ -1,2 +1,2 @@
-# Manage your Alliance ID
+# Your Alliance ID
 

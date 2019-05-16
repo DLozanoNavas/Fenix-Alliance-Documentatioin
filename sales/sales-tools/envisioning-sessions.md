@@ -1,4 +1,11 @@
-# FastTrack Assistance
+---
+description: >-
+  FastTrack helps Fenix Alliance's customers who deploy Microsoft cloud
+  solutions. Plan cloud deployments with help and guidance from Fenix Alliance &
+  Microsoft engineers.
+---
+
+# Microsoft FastTrack Assistance
 
 ### Get Invited
 

@@ -13,11 +13,13 @@
 
 ## Alliance ID Accounts
 
-* [Create your Alliance ID](alliance-id-accounts/creating-your-alliance-id/README.md)
-  * [Multi-Factor Authentication](alliance-id-accounts/creating-your-alliance-id/multi-factor-authentication.md)
-* [Manage your Alliance ID](alliance-id-accounts/manage-your-alliance-id/README.md)
+* [Your Alliance ID](alliance-id-accounts/manage-your-alliance-id/README.md)
+  * [Create your Alliance ID](alliance-id-accounts/manage-your-alliance-id/creating-your-alliance-id/README.md)
+    * [Multi-Factor Authentication](alliance-id-accounts/manage-your-alliance-id/creating-your-alliance-id/multi-factor-authentication.md)
   * [Your profile](alliance-id-accounts/manage-your-alliance-id/your-profile/README.md)
-    * [Tenant Modes](alliance-id-accounts/manage-your-alliance-id/your-profile/tenant-modes.md)
+    * [Tenant Modes](alliance-id-accounts/manage-your-alliance-id/your-profile/tenant-modes/README.md)
+      * [Careers Profile](alliance-id-accounts/manage-your-alliance-id/your-profile/tenant-modes/careers-profile.md)
+      * [Learner Profile](alliance-id-accounts/manage-your-alliance-id/your-profile/tenant-modes/learner-profile.md)
   * [Your Wallet](alliance-id-accounts/manage-your-alliance-id/your-wallet.md)
   * [Your Wishlists](alliance-id-accounts/manage-your-alliance-id/your-wishlists.md)
   * [Your Social Profile](alliance-id-accounts/manage-your-alliance-id/your-social-profile/README.md)
@@ -94,30 +96,23 @@
 
 * [Startup Profiles](startups/register-a-new-startup-profile.md)
 
-## Learn Alliance
-
-* [Learner profile](education/learner-profile.md)
-
 ## Billing
 
 * [Orders](billing/orders.md)
 * [Payments](billing/payments/README.md)
   * [Payment methods](billing/payments/payment-methods.md)
 
-## Cognitive
-
-* [Andy \| Support Bot](cognitive/andy-or-support-bot.md)
-
 ## Support
 
 * [Support Tools](support/support-model/README.md)
-  * [Support Tickets](support/support-model/untitled.md)
+  * [Support Tickets](support/support-model/untitled/README.md)
+    * [Andy \| Support Bot](support/support-model/untitled/andy-or-support-bot.md)
 * [Security Features](support/security-features.md)
 
 ## Sales
 
 * [Sales Tools](sales/sales-tools/README.md)
-  * [FastTrack Assistance](sales/sales-tools/envisioning-sessions.md)
+  * [Microsoft FastTrack Assistance](sales/sales-tools/envisioning-sessions.md)
   * [Value Discovery Workshop](sales/sales-tools/value-discovery-workshop.md)
   * [Customer Immersion Experience](sales/sales-tools/customer-immersion-experience.md)
   * [Value Calculator](sales/sales-tools/value-calculator.md)
