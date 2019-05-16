@@ -19,7 +19,7 @@ Place your mouse on the right-hand side corner of your screen, over your name an
 
 This step will take you to the Business Creation Form. Fill the form and make sure that you are legally authorized to act on the name of that business, as you will need to provide documentation to support that claim.
 
-![Business creation form. v1.0.0](../.gitbook/assets/image%20%285%29.png)
+![Business creation form. v1.0.0](../.gitbook/assets/image%20%2811%29.png)
 
 {% hint style="info" %}
 Note that creating a business can sometimes take a few seconds.

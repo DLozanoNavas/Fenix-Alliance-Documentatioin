@@ -122,13 +122,17 @@
 * [Support Tiers](support/support-model.md)
 * [Support Tickets](support/untitled.md)
 * [Changelog](support/changelog.md)
+* [Security Features](support/security-features.md)
+
+## Sales
+
+* [Our Sales Process](sales/our-sales-process/README.md)
+  * [Envisioning Sessions](sales/our-sales-process/envisioning-sessions.md)
+  * [Customer Immersion Experience](sales/our-sales-process/customer-immersion-experience.md)
+  * [Value Discovery Workshop](sales/our-sales-process/value-discovery-workshop.md)
 
 ## APIs
 
 * [List of available APIs](apis/list-of-available-apis.md)
 * [Request API Access](apis/untitled.md)
-
-## Security
-
-* [Security Features](security/security-features.md)
 

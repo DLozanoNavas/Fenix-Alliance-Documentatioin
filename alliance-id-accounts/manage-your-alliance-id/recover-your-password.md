@@ -13,7 +13,7 @@ To recover tour Alliance ID Password you can use [this link](https://fenixallian
 
 This will send an authentication code to your Alliance ID's primary email account. Copy and paste the code in the box and then proceed to provide a new password.
 
-![Local account password reset page.](../../.gitbook/assets/image%20%2810%29.png)
+![Local account password reset page.](../../.gitbook/assets/image%20%2817%29.png)
 
 {% hint style="info" %}
 Note that if your account is associated with an Alliance ID Provider, you won't be able to follow this procedure as your account doesn't actually have a password associated to it.

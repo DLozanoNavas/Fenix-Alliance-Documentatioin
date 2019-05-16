@@ -16,11 +16,11 @@ Right now, all our users must set up MFA as mandatory verification for their acc
 
 This process gets triggered after you l[og in to your Alliance ID Account](https://fenixalliance.com.co/Account/SignIn) either by using an identity provider or a local account. If you have already provided us with know your phone number, you will see a screen like this one:
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 Otherwise, you will be prompted for your phone number as follows:
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ## Phone Call verification.
 
@@ -30,7 +30,7 @@ If you select "**Call Me**", you will receive a phone call to your number asking
 
 When you select "**Send Code"** a 6 digit code will be sent to your phone within the next 30 seconds. Place the code on the prompt panel and that's it. You have now logged in successfully into your Alliance ID Account! 
 
-![SMS Authentication code panel prompt](../../.gitbook/assets/image%20%282%29.png)
+![SMS Authentication code panel prompt](../../.gitbook/assets/image%20%286%29.png)
 
 
 
