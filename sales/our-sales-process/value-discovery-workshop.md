@@ -1,3 +1,10 @@
+---
+description: >-
+  The Value Discovery Workshop (VDW) is a pre-sales program that helps Fenix
+  Alliance partners and sellers improve the acceleration of Microsoft product
+  sales initiatives.
+---
+
 # Value Discovery Workshop
 
 ### What is the Value Discovery Workshop \(VDW\)? 
