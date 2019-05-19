@@ -64,21 +64,21 @@
   * [Link a subscription you already own](cloud-marketplace/cloud-managed-subscriptions/link-a-currently-purchased-subscription.md)
   * [Managed Subscription Pricing](cloud-marketplace/cloud-managed-subscriptions/manage-subscription-pricing.md)
 
-## ComputeWorks Suites
+## ComputeWorks Suite
 
-* [ComputeWorks HR](computeworks-suite/computeworks-hr.md)
-* [ComputeWorks CRM](computeworks-suite/untitled/README.md)
-  * [Enable the CRM Suite for your business.](computeworks-suite/untitled/enable-the-crm-suite-for-your-business..md)
-  * [Organization](computeworks-suite/untitled/organization.md)
-  * [Contacts](computeworks-suite/untitled/contacts.md)
-  * [Deal Units](computeworks-suite/untitled/deal-units.md)
-  * [Direct Contacts](computeworks-suite/untitled/direct-contacts.md)
-  * [Flows](computeworks-suite/untitled/flows.md)
-  * [Sales Entities](computeworks-suite/untitled/sales-entities.md)
-  * [Tasks](computeworks-suite/untitled/tasks.md)
-  * [Teams](computeworks-suite/untitled/teams.md)
-* [ComputeWorks Marketing](computeworks-suite/computeworks-marketing.md)
-* [ComputeWorks Accounting](computeworks-suite/computeworks-accounting.md)
+* [ComputeWorks Suite](computeworks-suite/computeworks-hr/README.md)
+  * [ComputeWorks CRM](computeworks-suite/computeworks-hr/untitled/README.md)
+    * [Organization](computeworks-suite/computeworks-hr/untitled/organization.md)
+    * [Contacts](computeworks-suite/computeworks-hr/untitled/contacts.md)
+    * [Deal Units](computeworks-suite/computeworks-hr/untitled/deal-units.md)
+    * [Direct Contacts](computeworks-suite/computeworks-hr/untitled/direct-contacts.md)
+    * [Flows](computeworks-suite/computeworks-hr/untitled/flows.md)
+    * [Sales Entities](computeworks-suite/computeworks-hr/untitled/sales-entities.md)
+    * [Tasks](computeworks-suite/computeworks-hr/untitled/tasks.md)
+    * [Teams](computeworks-suite/computeworks-hr/untitled/teams.md)
+  * [ComputeWorks Marketing](computeworks-suite/computeworks-hr/computeworks-marketing.md)
+  * [ComputeWorks Talent](computeworks-suite/computeworks-hr/computeworks-talent.md)
+  * [ComputeWorks Accounting](computeworks-suite/computeworks-hr/computeworks-accounting.md)
 
 ## Projects
 
