@@ -1,20 +1,16 @@
 # Changelog
 
-## Computeworks v2.1.4
-
-### Fixed
-
-* Removed humans, they weren't doing fine with animals.
-
-### Changed
-
-* Animals are now super cute, all of them.
-
-## 14.0.0 - 2042-10-06
+## v2.1.7
 
 ### Added
 
-* Introduced animals into the world, we believe they're going to be a neat addition.
+* Add Store Distributors capability for Merchant stores
+
+### Changed
+
+* Product Create, Edit and Product Manager to include Store Distributors capability.
+
+## 
 
 
 

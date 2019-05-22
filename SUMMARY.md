@@ -42,6 +42,8 @@
 
 ## Infinity Comex Store
 
+* [Products](infinity-comex/products/README.md)
+  * [Features and attributes](infinity-comex/products/features-and-attributes.md)
 * [Product Orders](infinity-comex/orders/README.md)
   * [Buying products on your behalf](infinity-comex/orders/place-an-order-on-your-behalf.md)
   * [Buying products on behalf of your business](infinity-comex/orders/place-an-order-on-behalf-of-your-business.md)
