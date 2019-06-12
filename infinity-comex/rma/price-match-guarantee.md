@@ -1,3 +1,10 @@
+---
+description: >-
+  If you find an eligible item advertised at a lower price by an eligible
+  retailer for a product that have a Price Match Guarantee badge on their
+  product page within 5 days of purchase, we will match it
+---
+
 # Price Match Guarantee
 
 Items with the Price Match Guarantee come with a one-time price match guarantee. If you purchase an item from Fenix Alliance S.A.S which is carrying the Price Match Guarantee badge at the time of purchase, then find the exact same item at a lower price by Fenix Alliance or a major retailer,\* within 5 calendar days, just [let us know](http://www.newegg.com/HelpInfo/OverView1.aspx?SectionID=106&SubjectID=194&ShortDesc=Price), and we’ll send you an Infinity Comex Customer Care Card to cover the difference.
