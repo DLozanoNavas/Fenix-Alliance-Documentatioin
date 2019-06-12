@@ -1,8 +1,10 @@
+---
+description: >-
+  If you are purchasing any of the following products, please see below for
+  important disclaimers regarding each item type.
+---
+
 # Product disclaimers
-
-## Product disclaimers
-
-If you are purchasing any of the following products, please see below for important disclaimers regarding each item type.
 
 #### Open Box Product <a id="open-box-product"></a>
 
