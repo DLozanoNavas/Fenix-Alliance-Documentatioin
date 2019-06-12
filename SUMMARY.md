@@ -32,14 +32,6 @@
   * [Communication Preferences](alliance-id-accounts/manage-your-alliance-id/communication-preferences.md)
   * [Password Recovery / Update](alliance-id-accounts/manage-your-alliance-id/recover-your-password.md)
 
-## Business Accounts
-
-* [Create a new business account](business-accounts/create-a-new-business.md)
-* [Manage your business accounts](business-accounts/enroll-users-to-your-business/README.md)
-  * [Select a business you have access to.](business-accounts/enroll-users-to-your-business/select-a-business-you-have-access-to..md)
-  * [Your business wallet](business-accounts/enroll-users-to-your-business/your-business-wallet.md)
-  * [Business Social Profiles](business-accounts/enroll-users-to-your-business/business-social-profiles.md)
-
 ## Infinity Comex Store
 
 * [Products](infinity-comex/products/README.md)
@@ -57,6 +49,14 @@
   * [Price Match Guarantee](infinity-comex/rma/price-match-guarantee.md)
   * [Return Policy](infinity-comex/rma/return-policy.md)
 * [iComex for Business](infinity-comex/icomex-for-business.md)
+
+## Business Accounts
+
+* [Create a new business account](business-accounts/create-a-new-business.md)
+* [Manage your business accounts](business-accounts/enroll-users-to-your-business/README.md)
+  * [Select a business you have access to.](business-accounts/enroll-users-to-your-business/select-a-business-you-have-access-to..md)
+  * [Your business wallet](business-accounts/enroll-users-to-your-business/your-business-wallet.md)
+  * [Business Social Profiles](business-accounts/enroll-users-to-your-business/business-social-profiles.md)
 
 ## Services Marketplace
 
