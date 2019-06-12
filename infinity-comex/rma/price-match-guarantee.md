@@ -1,8 +1,8 @@
 ---
 description: >-
-  If you find an eligible item advertised at a lower price by an eligible
-  retailer for a product that have a Price Match Guarantee badge on their
-  product page within 5 days of purchase, we will match it
+  If you find an item advertised at a lower price by an eligible retailer for a
+  product that has a Price Match Guarantee badge on its page, within 5 days of
+  purchase, we will match it after verification
 ---
 
 # Price Match Guarantee
