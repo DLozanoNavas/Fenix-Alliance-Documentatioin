@@ -1,7 +1,7 @@
 ---
 description: >-
-  By default, users will be asked for their phone number to help improve the
-  security for their accounts.
+  If enabled, users will be asked for their phone number to help improve the
+  security for their Alliance ID accounts.
 ---
 
 # Multi-Factor Authentication
