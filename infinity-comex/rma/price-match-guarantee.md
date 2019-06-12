@@ -25,7 +25,7 @@ Not valid on exclusive, major-holiday sales event prices offered by Fenix Allian
   * Add-on services such as extended warranty or installation.
   * Any item offered by Fenix Alliance or a major retailer which is subject to MAP pricing.
   * Fenix Alliance's or a major retailer's advertised Price which is the result of a typographical error.
-* Limitations: Only one Price Match per customer; only one Price Match per item.
+* **Limitations**: Only one Price Match per customer; only one Price Match per item.
 * Not valid on exclusive, major-holiday sales event prices offered by fenixalliance.com.co/store or other retailers, including:
   * Fantastech Sale
   * Black Friday Sale
