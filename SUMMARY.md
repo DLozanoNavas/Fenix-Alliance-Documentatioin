@@ -49,6 +49,7 @@
   * [Buying products on behalf of your business](infinity-comex/orders/place-an-order-on-behalf-of-your-business.md)
 * [Shippings](infinity-comex/shippings.md)
 * [Returns and refunds](infinity-comex/rma/README.md)
+  * [Refunds, partial refunds, and restocking fees](infinity-comex/rma/refunds.md)
   * [Return Policy](infinity-comex/rma/return-policy.md)
 * [iComex for Business](infinity-comex/icomex-for-business.md)
 * [Products Billing and taxes](infinity-comex/products-billing-and-taxes.md)
