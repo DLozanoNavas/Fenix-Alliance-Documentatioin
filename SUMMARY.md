@@ -60,6 +60,7 @@
 
 ## Services Marketplace
 
+* [Overview](services-marketplace/overview.md)
 * [Services](services-marketplace/untitled/README.md)
   * [Stack selection](services-marketplace/untitled/stack-selection.md)
 * [Project Services Management](services-marketplace/project-services-management.md)
@@ -79,18 +80,6 @@
   * [ComputeWorks Marketing](computeworks-suite/computeworks-hr/computeworks-marketing.md)
   * [ComputeWorks Talent](computeworks-suite/computeworks-hr/computeworks-talent.md)
   * [ComputeWorks Accounting](computeworks-suite/computeworks-hr/computeworks-accounting.md)
-
-## Projects
-
-* [Overview](projects/overview/README.md)
-  * [Link a repository.](projects/overview/link-a-repository..md)
-* [Persona Projects](projects/untitled.md)
-* [Business Projects](projects/business-projects.md)
-
-## Partners
-
-* [Persona Partners](partners/untitled.md)
-* [Business Partners](partners/business-partners.md)
 
 ## Billing
 
