@@ -59,14 +59,6 @@
   * [Stack selection](services-marketplace/untitled/stack-selection.md)
 * [Project Services Management](services-marketplace/project-services-management.md)
 
-## Cloud Marketplace
-
-* [Resources](cloud-marketplace/resources.md)
-* [Resource Groups](cloud-marketplace/resource-groups.md)
-* [Cloud Managed Subscriptions](cloud-marketplace/cloud-managed-subscriptions/README.md)
-  * [Link a subscription you already own](cloud-marketplace/cloud-managed-subscriptions/link-a-currently-purchased-subscription.md)
-  * [Managed Subscription Pricing](cloud-marketplace/cloud-managed-subscriptions/manage-subscription-pricing.md)
-
 ## ComputeWorks Suite
 
 * [ComputeWorks Suite](computeworks-suite/computeworks-hr/README.md)
@@ -94,10 +86,6 @@
 
 * [Persona Partners](partners/untitled.md)
 * [Business Partners](partners/business-partners.md)
-
-## Alliance for Startups
-
-* [Startup Profiles](startups/register-a-new-startup-profile.md)
 
 ## Billing
 
