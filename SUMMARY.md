@@ -52,7 +52,6 @@
   * [Refunds, partial refunds, and restocking fees](infinity-comex/rma/refunds.md)
   * [Return Policy](infinity-comex/rma/return-policy.md)
 * [iComex for Business](infinity-comex/icomex-for-business.md)
-* [Products Billing and taxes](infinity-comex/products-billing-and-taxes.md)
 
 ## Services Marketplace
 
