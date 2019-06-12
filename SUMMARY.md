@@ -98,25 +98,21 @@
 * [Payments](billing/payments/README.md)
   * [Payment methods](billing/payments/payment-methods.md)
 
-## Support
+## Sales and Support
 
-* [Support Tools](support/support-model/README.md)
-  * [Andy \| Support Bot](support/support-model/andy-or-support-bot.md)
-  * [Support Tickets](support/support-model/untitled.md)
-* [Security Features](support/security-features.md)
-
-## Sales
-
-* [Sales Tools](sales/sales-tools/README.md)
-  * [Microsoft FastTrack Assistance](sales/sales-tools/envisioning-sessions.md)
-  * [Value Discovery Workshop](sales/sales-tools/value-discovery-workshop.md)
-  * [Customer Immersion Experience](sales/sales-tools/customer-immersion-experience.md)
-  * [Value Calculator](sales/sales-tools/value-calculator.md)
-* [Service-level agreements \(SLAs\)](sales/service-level-agreements-slas.md)
+* [Support Tools](sales-support/support-model/README.md)
+  * [Support Tickets](sales-support/support-model/untitled.md)
+  * [Security Features](sales-support/support-model/security-features.md)
+  * [Changelog](sales-support/support-model/changelog.md)
+* [Sales Tools](sales-support/sales-tools/README.md)
+  * [Microsoft FastTrack Assistance](sales-support/sales-tools/envisioning-sessions.md)
+  * [Value Discovery Workshop](sales-support/sales-tools/value-discovery-workshop.md)
+  * [Customer Immersion Experience](sales-support/sales-tools/customer-immersion-experience.md)
+  * [Value Calculator](sales-support/sales-tools/value-calculator.md)
+  * [Service-level agreements \(SLAs\)](sales-support/sales-tools/service-level-agreements-slas.md)
 
 ## Developers
 
 * [Request API Access](https://developer.fenix-alliance.com/signin)
 * [Developer Products](https://developer.fenix-alliance.com/products)
-* [Changelog](developers/changelog.md)
 

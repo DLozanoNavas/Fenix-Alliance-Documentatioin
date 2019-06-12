@@ -1,2 +1,0 @@
-# Andy \| Support Bot
-
