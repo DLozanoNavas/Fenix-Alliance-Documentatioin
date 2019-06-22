@@ -32,7 +32,7 @@
   * [Communication Preferences](alliance-id-accounts/manage-your-alliance-id/communication-preferences.md)
   * [Password Recovery / Update](alliance-id-accounts/manage-your-alliance-id/recover-your-password.md)
 
-## Infinity Comex Store
+## Infinity Comex Store <a id="infinity-comex"></a>
 
 * [Products](infinity-comex/products/README.md)
   * [Features and attributes](infinity-comex/products/features-and-attributes.md)
@@ -87,7 +87,7 @@
 * [Payments](billing/payments/README.md)
   * [Payment methods](billing/payments/payment-methods.md)
 
-## Sales and Support
+## Sales and Support <a id="sales-support"></a>
 
 * [Support Tools](sales-support/support-model/README.md)
   * [Support Tickets](sales-support/support-model/untitled.md)

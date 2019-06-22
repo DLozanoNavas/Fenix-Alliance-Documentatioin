@@ -17,7 +17,7 @@ These are Fenix Alliance S.A.S’ Overall Return Guidelines. All returns must me
 
 * All product returns require a Return Merchandise Authorization \(RMA\) number.
 * You can request an RMA number by contacting with a customer service representative or by creating a support ticket on your Alliance ID:
-  * If you are an international customer, please [click here](https://kb.newegg.com/knowledge-base/how-to-return-a-newegg-global-item/) for return instructions.
+  * If you are an international customer, please contact with a support representative for return instructions.
 * Most products that are new and unopened can be returned to Fenix Alliance S.A.S within 30 days.
 * Products that are received by Fenix Alliance S.A.S in any of the following conditions are not eligible for return and may be rejected:
   * Any product not purchased from the Infinity Comex Platform.
@@ -32,7 +32,7 @@ These are Fenix Alliance S.A.S’ Overall Return Guidelines. All returns must me
 
 #### Restocking Fees and Return Shipping Labels <a id="restocking-fees-and-return-shipping-labels"></a>
 
-Returns are subject to restocking fees and return shipping fees. For products that are eligible for return for replacement, the return shipping labels are free for returns for replacement of the same item within the applicable return policy period. Fenix Alliance S.A.S does NOT charge for restocking fees or return shipping labels for returns of defective products or unopened items that are returned in the original condition as shipped or if you received the wrong product, the product did not match what was shown on the Site or we made some other shipping error, provided the item is returned within its return policy period. In the event a product is returned that is not defective or an incorrect product or where the product does match what was shown on the Site, the product will either be returned to the customer or the return shipping cost initially covered by Fenix Alliance S.A.S will instead be deducted from the refund amount along with any necessary restocking fee that may apply. Please [click here](https://kb.newegg.com/knowledge-base/refunds-partial-refunds-and-restocking-fees/) to learn more about restocking fees and return shipping fees.
+Returns are subject to restocking fees and return shipping fees. For products that are eligible for return for replacement, the return shipping labels are free for returns for replacement of the same item within the applicable return policy period. Fenix Alliance S.A.S does NOT charge for restocking fees or return shipping labels for returns of defective products or unopened items that are returned in the original condition as shipped or if you received the wrong product, the product did not match what was shown on the Site or we made some other shipping error, provided the item is returned within its return policy period. In the event a product is returned that is not defective or an incorrect product or where the product does match what was shown on the Site, the product will either be returned to the customer or the return shipping cost initially covered by Fenix Alliance S.A.S will instead be deducted from the refund amount along with any necessary restocking fee that may apply. Please [click here](refunds.md) to learn more about restocking fees and return shipping fees.
 
 #### Return Policies <a id="return-policies"></a>
 
@@ -69,7 +69,7 @@ This is our Replacement Only Return Policy. For items covered by this policy \(t
 
 **Manufacturer Only Return Policy**
 
-This is our Manufacturer Only Return Policy. Items covered by this policy \(those products for which Fenix Alliance S.A.S states “This item is covered by Fenix Alliance S.A.S' Manufacturer Only Return Policy”\) cannot be returned to Fenix Alliance S.A.S. These items are covered by a manufacturer’s warranty. For information about the manufacturer’s warranty, please refer to the terms and conditions for the manufacturer’s warranty or contact the manufacturer. For a list of manufacturers by name and contact phone number, please [click here](https://www.newegg.com/Info/ContactManufacturer.aspx).
+This is our Manufacturer Only Return Policy. Items covered by this policy \(those products for which Fenix Alliance S.A.S states “This item is covered by Fenix Alliance S.A.S' Manufacturer Only Return Policy”\) cannot be returned to Fenix Alliance S.A.S. These items are covered by a manufacturer’s warranty. For information about the manufacturer’s warranty, please refer to the terms and conditions for the manufacturer’s warranty or contact the manufacturer.
 
 **Consumable Product Return Policy**
 
@@ -128,7 +128,7 @@ Special order products are not eligible for return.
 
 **Quantity Purchases**
 
-While Fenix Alliance S.A.S is more than happy to fill your order for a quantity of ten \(10\) or more of any given item in our inventory on a single purchase order, please understand that an order of that size, once purchase is completed, is automatically non-refundable. All other specific conditions related to the ordered item still apply, including any and all stipulations relative to any available replacement return policies. Please contact our customer service department with any questions you may have.
+While we are more than happy to fill your order for a quantity of ten \(10 +\) or more of any given item in our inventory on a single purchase order, please understand that an order of that size, once purchase is completed, is automatically non-refundable. All other specific conditions related to the ordered item still apply, including any and all stipulations relative to any available replacement return policies. Please contact our customer service department with any questions you may have.
 
 **Additional Return Information**
 
@@ -136,7 +136,7 @@ While Fenix Alliance S.A.S is more than happy to fill your order for a quantity 
 
 Refunds will be credited back to your original payment method. If the original payment method is no longer available, Fenix Alliance S.A.S will mail you a check to the billing address listed on your account.
 
-For returns for refunds for items purchased as gifts, Fenix Alliance S.A.S will issue you a refund in the form of Alliance ID wallet credit or an Infinity Comex gift card.
+For returns for refunds for items purchased as discounts, Fenix Alliance S.A.S will issue you a refund in the form of Alliance ID Wallet credit or an Infinity Comex gift card.
 
 **Replacements**
 
