@@ -102,6 +102,3 @@
 
 ## Developers
 
-* [Request API Access](https://developer.fenix-alliance.com/signin)
-* [Developer Products](https://developer.fenix-alliance.com/products)
-
