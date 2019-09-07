@@ -102,3 +102,16 @@
 
 ## Developers
 
+* [Documentation](developers/documentation.md)
+* [External Authentication Flow](developers/external-authentication-flow.md)
+* [Application Registration](developers/application-registration.md)
+* [API Reference](https://fenixalliance.com.co/api/documentation)
+* [AiD API WordBook](developers/aid-api-wordbook.md)
+
+## Credits
+
+* [Libraries and dependences](credits/libraries-and-dependences.md)
+* [Graphic & Animation Resources](credits/graphic-and-animation-resources.md)
+* [SDKs and APIs](credits/sdks-and-apis.md)
+* [Developers](credits/developers.md)
+
